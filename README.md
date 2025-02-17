@@ -1,5 +1,5 @@
 # SimpText
-SimpText 是一款簡單但功能強大的文本編輯器，專為輕量級編輯需求而設計，類似於 Notepad++，適用於 Linux 平台。
+SimpText 是一款簡單但功能強大的文本編輯器，專為輕量級編輯需求而設計，類似於 Notepad++，適用於 Linux,Windows 平台。
 
 ## 主要功能
 - 輕量快捷：啟動迅速，佔用資源少。
