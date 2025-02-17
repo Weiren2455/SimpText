@@ -20,7 +20,7 @@ jobs:
         run: |
           pyinstaller --onefile SimpText.py
       - name: Upload exe as artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: SimpText-exe
           path: dist/SimpText.exe
