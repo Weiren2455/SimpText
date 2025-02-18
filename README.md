@@ -11,7 +11,16 @@ SimpText 是一款簡單但功能強大的文本編輯器，專為輕量級編�
 - Linux 原生支援：可直接打開，易於使用。
 
 ## 安裝方式
-請看版本處下載
+請點擊介紹的最上方按鈕查看最新版本並下載。
+
+Linux初次開啟需要輸入以下指令，輸入後就無須在輸入便可直接開啟。
+```
+chmod +x SimpText-Linux
+./SimpText-Linux
+```
+(請記得cd到文件所在目錄，可在Google查詢)
+
+Windows則無須任何操作 直接開啟即可
 ## 計劃中的功能
 - 更多插件支援
 - 加入Mac支援
@@ -24,3 +33,4 @@ SimpText 是一款開源軟體，歡迎在 GitHub 提交問題回報或貢獻代
 - 主要開發維護者：Weiren2455 張維仁
 - Linux負責維護者：Weiren2455 張維仁
 - Windows負責維護者：bestpiaa PIAA
+- MIT協議,使用Python開發
