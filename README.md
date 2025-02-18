@@ -17,4 +17,7 @@ SimpText 是一款簡單但功能強大的文本編輯器，專為輕量級編�
 
 ## 開源與貢獻
 SimpText 是一款開源軟體，歡迎在 GitHub 提交問題回報或貢獻代碼。
-🚀 立即下載並體驗 SimpText！
+🚀 立即下載並體驗 SimpText！<br\>
+主要開發維護者：Weiren2455 張維仁<br\>
+Linux負責維護者：Weiren2455 張維仁<br\>
+Windows負責維護者：bestpiaa PIAA
