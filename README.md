@@ -3,6 +3,10 @@
 
 SimpText 是一款簡單但功能強大的文本編輯器，專為輕量級編輯需求而設計，類似於 Notepad++，適用於 Linux,Windows 平台。
 
+相較於市面上最常見的編輯器如:kate,vscode更輕便
+
+SimpText:46MB~30MB KDE Kate:56MB~41MB VSCode:100MB~1GB Notepad++:8MB~100B
+
 ## 主要功能
 - 輕量快捷：啟動迅速，佔用資源少。
 - 語法高亮：支援多種程式語言，提高編輯效率。
