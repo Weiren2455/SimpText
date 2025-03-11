@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import QMainWindow, QApplication, QFileDialog, QPlainTextEd
 from PyQt5.QtGui import QFont, QSyntaxHighlighter, QTextCharFormat
 from PyQt5.QtCore import Qt, QRegExp
 
-# 語法高亮類別 (這裡以 Python 為例)
+# 語法高亮類別
 class Highlighter(QSyntaxHighlighter):
     def __init__(self, parent=None):
         super(Highlighter, self).__init__(parent)
